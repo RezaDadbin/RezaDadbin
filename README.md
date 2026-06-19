@@ -1,18 +1,39 @@
-# 💫 About Me:
-I’m currently working on Cutting-edge deep learning research in computer vision, EEG–text fusion, and video understanding, focusing on real-world applications in industrial automation and neuro-AI systems.<br>I’m looking to collaborate on AI research projects involving medical imaging, transformer-based vision models, and cognitive signal processing.<br>I’m looking for help with Enhancing cross-domain generalization and real-time inference in deep learning systems.<br>I’m currently learning Meta-learning, active learning, and reinforcement learning for adaptable and data-efficient AI models.<br>ask me about Deep learning architectures, AI-driven automation, and applied research bridging neuroscience and machine learning.<br>Fun fact I play the violin and often compose melodies inspired by neural networks.
+# Reza Dadbin
 
+AI master's student focused on computer vision, deep learning, and practical machine learning systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rezadadbin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dadbin.redad@gmail.com) 
+I use GitHub to document research-style experiments, course projects, and small applied tools. My strongest interests are industrial computer vision, image segmentation, video/image analysis, and AI systems that can be tested and explained clearly.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RezaDadbin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RezaDadbin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaDadbin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Current Focus
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RezaDadbin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Computer vision for industrial image analysis
+- Semantic segmentation with PyTorch models such as UNet, DeepLab, SAM-family models, and SBSNet
+- Multi-agent path finding and search algorithm visualization
+- Practical Python tools with clear setup instructions and reproducible workflows
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected Work
+
+- [DebtPal](https://github.com/RezaDadbin/DebtPal): Django web app for shared debt tracking and settlement calculation.
+- [WarehouseBots MAPF Visualizer](https://github.com/RezaDadbin/warehousebots-mapf-visualizer): Python visualizer for warehouse robot path finding with classical search algorithms.
+- [UNet Froth Segmentation Pipeline](https://github.com/RezaDadbin/U-net-froth-segmentation-pipeline): PyTorch pipeline for industrial froth image segmentation.
+- [Froth Impurity Detection](https://github.com/RezaDadbin/froth-impurity-detection): OpenCV pipeline for detecting and counting impurities in froth images.
+- [Real-time Face Recognition](https://github.com/RezaDadbin/Real-time-Face-recognition): Offline face recognition GUI using MTCNN and FaceNet embeddings.
+
+## Technical Stack
+
+- Python, PyTorch, OpenCV, NumPy, Pandas, Matplotlib
+- Django, Django REST Framework, HTML, CSS, JavaScript
+- Git, GitHub, Linux/macOS development workflows
+- Model evaluation, image processing, segmentation metrics, and experiment documentation
+
+## What I Am Improving
+
+- Cleaner repository documentation
+- More reproducible experiment setup
+- Stronger test coverage and deployment discipline
+- Better project structure for AI research and applied software projects
+
+## Contact
+
+- GitHub: [RezaDadbin](https://github.com/RezaDadbin)
+- LinkedIn: [rezadadbin](https://www.linkedin.com/in/rezadadbin/)
