@@ -1,18 +1,16 @@
 # Reza Dadbin
 
-MSc student in Artificial Intelligence focused on computer vision, deep learning, and geometric learning. My current work includes neural mesh processing, industrial image analysis, video understanding, and multimodal learning.
+Final-year B.Sc. Computer Engineering student at the University of Tabriz. My current work focuses on computer vision, learning-based 3D geometry and mesh processing, and industrial image analysis.
+
+My broader research interests include generative modeling, multimodal and vision-language models, foundation models, and medical image analysis.
 
 ## Selected Work
 
-- [Context-Aware Neural Subdivision](https://github.com/RezaDadbin/context-aware-neural-subdivision) - Local and global context conditioning for learned mesh subdivision.
-- [U-Net Froth Segmentation Pipeline](https://github.com/RezaDadbin/U-net-froth-segmentation-pipeline) - A PyTorch pipeline for industrial froth segmentation.
-- [Froth Impurity Detection](https://github.com/RezaDadbin/froth-impurity-detection) - An OpenCV pipeline for detecting impurities in froth images.
-- [WarehouseBots MAPF Visualizer](https://github.com/RezaDadbin/warehousebots-mapf-visualizer) - A visualizer for multi-agent path-finding algorithms.
+- **[Context-Aware Neural Subdivision](https://github.com/RezaDadbin/context-aware-neural-subdivision)** — Research implementation and experimentation around learning-based mesh subdivision: a reproduced Neural Subdivision-style pipeline, mesh preprocessing, correspondence validation, training/evaluation infrastructure, reproducibility tests, and an implemented, experimentally evaluated extension. Further research is ongoing. Related [stylized subdivision experiments](https://github.com/RezaDadbin/stylized-neural-subdivision) document reproduction work.
+- **Froth image analysis and segmentation** — [U-Net](https://github.com/RezaDadbin/U-net-froth-segmentation-pipeline), [DeepLab](https://github.com/RezaDadbin/froth-deeplab-family), and [SAM-family](https://github.com/RezaDadbin/froth-sam-family) pipelines for industrial froth imagery, covering model training, evaluation, and mask analysis. Experimental work completed; a data-paper manuscript is currently in preparation.
+- **[Froth Motion Analysis](https://github.com/RezaDadbin/froth-motion-analysis)** — Industrial computer vision work on froth motion and stability, with image registration, local motion estimation, and visual/CSV analysis tools.
+- **[DebtPal](https://github.com/RezaDadbin/DebtPal)** — A student Django project for shared-debt tracking and settlement calculation, with tests, CI, and deployment notes.
 
-## Tools
+**Tools:** Python, PyTorch, OpenCV, NumPy, Git, LaTeX.
 
-Python, PyTorch, OpenCV, NumPy, Git, and LaTeX.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/rezadadbin/) | [GitHub](https://github.com/RezaDadbin)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/rezadadbin/) · [GitHub](https://github.com/RezaDadbin)
